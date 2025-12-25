@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/584c5ce7-2f2f-4c54-bc93-a9a161a057bc" /># Monday Coffee Expansion SQL Project
 
 ![Company Logo](https://github.com/DishankM/Monday-Coffee-Expansion-SQL_Project/blob/main/1.png?raw=true )
 
